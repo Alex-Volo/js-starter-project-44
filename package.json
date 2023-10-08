@@ -23,5 +23,8 @@
     "url": "https://github.com/Alex-Volo/js-starter-project-44/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/Alex-Volo/js-starter-project-44#readme"
+  "homepage": "https://github.com/Alex-Volo/js-starter-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
