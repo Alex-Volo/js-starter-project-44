@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/Alex-Volo/js-starter-project-44/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/Alex-Volo/js-starter-project-44#readme"
 }
