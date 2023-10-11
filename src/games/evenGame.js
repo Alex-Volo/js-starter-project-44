@@ -22,7 +22,6 @@ const askParity = () => {
       break;
 
     default:
-      console.log('Correct!');
       isWinGame = true;
   }
 

@@ -9,6 +9,7 @@ export default function runGame(game, taskText) {
 
   while (winsCount < 3) {
     if (game(currentUser)) {
+      console.log('Correct!');
       winsCount += 1;
     } else {
       console.log(`Let's try again, ${currentUser}!`);
