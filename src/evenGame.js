@@ -1,11 +1,5 @@
 import * as readline from 'readline-sync';
-
-const getRandomNumber = (min = 0, max = 100) => {
-  const diff = max - min;
-  return Math.floor((Math.random() * (diff + 1)) + min);
-};
-
-const isEven = (num) => !(num % 2);
+import { getRandomNumber, isEven } from './helpers.js';
 
 const askParity = (userName = 'John Dow') => {
   let isWinGame = true;
