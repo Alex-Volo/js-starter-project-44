@@ -8,5 +8,21 @@ export const isEven = (num) => !(num % 2);
 export const getRandomMathSign = () => {
   const signs = ['+', '-', '*'];
   const index = getRandomNumber(0, 2);
-  return signs(index);
+  return signs[index];
+};
+
+export const calcExpression = (firstNum, secondNum, sign) => {
+  switch (sign) {
+    case '+':
+      return firstNum + secondNum;
+
+    case '-':
+      return firstNum - secondNum;
+
+    case '*':
+      return firstNum * secondNum;
+
+    default:
+      return 0;
+  }
 };
