@@ -26,3 +26,15 @@ export const calcExpression = (firstNum, secondNum, sign) => {
       return 0;
   }
 };
+
+export const findGCD = (firstN, secondN) => {
+  let a = firstN;
+  let b = secondN;
+  let r;
+  while (b !== 0) {
+    r = Math.abs(a % b);
+    a = b;
+    b = r;
+  }
+  return (a < 0) ? -a : a;
+};
