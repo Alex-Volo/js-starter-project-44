@@ -5,4 +5,5 @@
 <a href="https://codeclimate.com/github/Alex-Volo/js-starter-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/83a7bc32aa62b656a028/maintainability" /></a>
 
 ### Asciinema
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/2vFFGH7XjzcVW1ygE7bhF0hyL)
+[![Insallation and launch brain-even game](https://asciinema.org/a/Xjqn1qzyIA7q6pJlKjSTTZ26n.png)](https://asciinema.org/a/Xjqn1qzyIA7q6pJlKjSTTZ26n)
+[![Launch brain-calc game](https://asciinema.org/a/jR93s1EH97rA7wtBqUnlslaak.png)](https://asciinema.org/a/jR93s1EH97rA7wtBqUnlslaak)
