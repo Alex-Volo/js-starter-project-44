@@ -8,6 +8,7 @@
 For Linux:
 * make publish
 * make install
+
 For Windows:
 * npm publish --dry-run
 * npm ci
