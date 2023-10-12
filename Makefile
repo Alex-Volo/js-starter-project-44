@@ -1,4 +1,4 @@
-install:
+install: publish
 	npm ci && sudo npm link
 
 brain-games:
