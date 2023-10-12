@@ -5,8 +5,13 @@
 <a href="https://codeclimate.com/github/Alex-Volo/js-starter-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/83a7bc32aa62b656a028/maintainability" /></a>
 
 ### Setup
-make publish
-make install
+For Linux:
+* make publish
+* make install
+For Windows:
+* npm publish --dry-run
+* npm ci
+* npm link
 
 ### Minimum requirements
 If you see this page then your device meets the minimum requirements.
@@ -15,11 +20,11 @@ To launch the games you need CLI (command line interface)
 ### Description
 This package contain 5 games.
 
-brain-even - determine whether the number is even
-brain-calc - calculate math expression
-brain-gcd - find greater common divisor
-brain-progression - determine skipped element of progression
-brain-prime - determine whether the number is prime
+* brain-even - determine whether the number is even
+* brain-calc - calculate math expression
+* brain-gcd - find greater common divisor
+* brain-progression - determine skipped element of progression
+* brain-prime - determine whether the number is prime
 
 ### Asciinema
 Insallation and launch brain-even game
