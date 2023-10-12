@@ -13,3 +13,5 @@ Launch brain-gcd game
 [![Launch brain-gcd game](https://asciinema.org/a/wjpyNgfnO66w9voyZTmJc6yFl.png)](https://asciinema.org/a/wjpyNgfnO66w9voyZTmJc6yFl)
 Launch brain-progression game
 [![Launch brain-gcd game](https://asciinema.org/a/xieZ9RT3NLrrU08Ggz48wx7uC.png)](https://asciinema.org/a/xieZ9RT3NLrrU08Ggz48wx7uC)
+Launch brain-prime game
+[![Launch brain-gcd game](https://asciinema.org/a/nuolt2DJlyukDpL1Ij0P9tWvI.png)](https://asciinema.org/a/nuolt2DJlyukDpL1Ij0P9tWvI)
